@@ -35,9 +35,19 @@ and look back at past sessions and the progress of each exercise. Installable on
 
 ---
 
+### 🤝 Team projects
+
+- **[Tegel im Tausch](https://github.com/MarcelDo01/tegel-tradeoff-modell)** · CityLAB Berlin Summer School 2026<br>
+  Physical and data-based model of land-use trade-offs on the former Tegel airport site.<br>
+  My part: structured data for the model (starting layout, swap matrix, key figures, sources) and the technical documentation.
+- **[Labour market participation analysis](https://github.com/DulalEshmam/Stochastik-Hausarbeit)** · M.Sc. course project, team of three<br>
+  Statistical analysis in R of the Mroz dataset. My part: cross-tabulations and the inductive part with hypothesis tests.
+
+---
+
 ### 🧰 Tech stack
 
-- **Languages:** Python · Java · TypeScript · SQL
+- **Languages:** Python · Java · TypeScript · SQL · R
 - **Data & AI:** pandas · NumPy · scikit-learn · LangChain · OpenAI API
 - **Web:** React · Spring Boot · REST APIs
 - **Ops & tools:** Docker · Linux · Git & GitHub Actions · Selenium · pytest
