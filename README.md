@@ -26,6 +26,8 @@ and look back at past sessions and the progress of each exercise. Installable on
 
 `React` `TypeScript` `Tailwind` `Spring Boot` `Java 21` `MySQL` `Liquibase` `Docker` `Caddy`
 
+<img src="assets/gym-guide.png" alt="Gym Guide: workout selection, workout plan with drag-to-reorder, exercise detail" width="720">
+
 - REST API in Spring Boot with JPA, validation and token-based access
 - Versioned database schema with Liquibase migrations
 - Self-hosted backend on a cloud VM: Docker Compose behind Caddy with automatic HTTPS
